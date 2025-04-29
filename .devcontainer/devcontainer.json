@@ -10,7 +10,6 @@
     "ms-toolsai.jupyter"
   ],
   "settings": {
-    "python.pythonPath": "/usr/local/bin/python"
-  },
-  "postCreateCommand": "pip install --no-cache-dir -r requirements.txt"
+    "python.pythonPath": "/usr/bin/python"
+  }
 }
